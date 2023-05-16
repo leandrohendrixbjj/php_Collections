@@ -1,2 +1,2 @@
-https://www.php.net/manual/pt_BR/language.types.array.php
-//User Contributed Notes
+//https://www.php.net/manual/en/ref.array.php
+next => Combine
