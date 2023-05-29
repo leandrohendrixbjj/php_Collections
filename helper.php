@@ -1,2 +1,1 @@
-https://www.php.net/manual/en/ref.array.php
-NEXT => array_diff
+NEXT = https://www.php.net/manual/en/function.array-key-last.php
