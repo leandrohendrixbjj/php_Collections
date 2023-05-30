@@ -1,1 +1,1 @@
-NEXT = https://www.php.net/manual/en/function.array-key-last.php
+NEXT = https://www.php.net/manual/pt_BR/function.array-merge-recursive.php
