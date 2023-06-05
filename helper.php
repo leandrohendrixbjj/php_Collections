@@ -1,1 +1,1 @@
-NEXT = https://www.php.net/manual/pt_BR/function.array-product.php
+NEXT = https://www.php.net/manual/pt_BR/function.array-slice.php
