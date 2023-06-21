@@ -1,6 +1,6 @@
 <?php
-// memory_get_usage: seu retorno é em Bytes. Se dividir 1024, terá KB, 1024 terá MB....
-// Observe a diferença de alocação de memória entre ambos os valores
+// SplFixedArray
+// Observe a diferença de alocação de memória entre o script anterior
 
 $arr = new SplFixedArray(32769);
 $value = 32769;
