@@ -3,7 +3,6 @@
 //Observe a diferença de alocação de memória entre ambos os valores
 
 $arr = [];
-$value_1 = 32768;
 $value_2 = 32769;
 
 for ($row = 0; $row < $value_2; $row++) {
